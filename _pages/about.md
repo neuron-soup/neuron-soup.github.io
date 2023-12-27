@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Condensed Matter Theory @ Stanford*
+subtitle: Condensed Matter Theory @ Stanford
 
 profile:
   align: right
