@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Condensed Matter Theory @ <span style="color:#C10000">Stanford</span>.
+subtitle: theoretical physics @ <span style="color:#C10000">stanford</span>.
 
 profile:
   align: right
@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at Stanford University broadly interested in all aspects of theoretical physics. Feel free to contact me if you have any questions!
+I am a graduate student at Stanford University broadly interested in all aspects of theoretical physics. I earned a B.A. in physics and math at NYU. Feel free to contact me if you have any questions!
