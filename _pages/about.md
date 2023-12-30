@@ -16,4 +16,4 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a graduate student at Stanford University broadly interested in all aspects of theoretical physics. Previously, I earned my B.A. in physics and math at New York U. Feel free to contact me if you have any questions!
+I am a graduate student at Stanford University broadly interested in all aspects of theoretical physics. Previously, I earned my B.A. in physics and math at New York University. Feel free to contact me if you have any questions!
